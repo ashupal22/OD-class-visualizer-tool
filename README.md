@@ -1,7 +1,7 @@
 # 🧠 OD-class-visualizer-tool
 
 A comprehensive visual analysis tool for medical image object detection. This tool processes `.jpg` medical images using a pretrained ONNX model, generates class-wise histograms, enables interactive frame-wise visualization, and produces high-quality videos for analysis and reporting.
-
+Screenshot from 2025-06-20 15-01-12.png
 ---
 
 ## 🚀 Features
